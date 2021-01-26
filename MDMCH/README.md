@@ -1,12 +1,12 @@
-# DCMH
+# MDMCH
 
-Deep cross-modal hashing 论文 pytorch 实现
+Multiple Deep Neural Networks with Multiple Labels for Cross-Modal Hashing Retrieval 论文 pytorch 实现
 
 ## 环境
 
-`python 3.5+`
+`python 3.7+`
 
-`pytorch 0.3.0+`
+`pytorch 1.4+`
 
 ## 运行
 
@@ -28,4 +28,7 @@ Deep cross-modal hashing 论文 pytorch 实现
 
 * 链接:https://pan.baidu.com/s/1h-7OUyb5nbjrNkIc_1G9JQ  密码:5itw
 
-> 数据来源以及TensorFlow源码地址：https://github.com/jiangqy/DCMH-CVPR2017
+'DCMH-MultiLayers.mat’ and    'S_Multi_value' 
+* 链接：https://pan.baidu.com/s/1YowSiW_leJPQqXXHtSelDA 
+提取码：jmy5 
+
